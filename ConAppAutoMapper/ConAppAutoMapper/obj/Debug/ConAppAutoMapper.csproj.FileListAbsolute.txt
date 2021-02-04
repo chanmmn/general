@@ -1,0 +1,10 @@
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\bin\Debug\ConAppAutoMapper.exe.config
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\bin\Debug\ConAppAutoMapper.exe
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\bin\Debug\ConAppAutoMapper.pdb
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\bin\Debug\AutoMapper.dll
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\bin\Debug\AutoMapper.xml
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\obj\Debug\ConAppAutoMapper.csprojAssemblyReference.cache
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\obj\Debug\ConAppAutoMapper.csproj.CoreCompileInputs.cache
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\obj\Debug\ConAppAutoMapper.csproj.CopyComplete
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\obj\Debug\ConAppAutoMapper.exe
+C:\test\other\ConAppAutoMapper\ConAppAutoMapper\obj\Debug\ConAppAutoMapper.pdb
