@@ -1,0 +1,11 @@
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.deps.json
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.runtimeconfig.json
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.runtimeconfig.dev.json
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.dll
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.pdb
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.csprojAssemblyReference.cache
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.csproj.CoreCompileInputs.cache
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.AssemblyInfoInputs.cache
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.AssemblyInfo.cs
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.dll
+C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.pdb
