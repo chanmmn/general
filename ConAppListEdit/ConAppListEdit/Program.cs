@@ -25,8 +25,14 @@ namespace ConAppListEdit
             {
                 Console.WriteLine("Product ID {0} Product Name: {1}", prod.ProductID, prod.ProductName);
             }
-            Console.WriteLine("----------------------------");
+            Console.WriteLine("Before UpdateList----------------------------");
             UpdateList();
+            foreach (Products prod in list)
+            {
+                Console.WriteLine("Product ID {0} Product Name: {1}", prod.ProductID, prod.ProductName);
+            }
+            Console.WriteLine("Before DeleteListItem----------------------------");
+            DeleteListItem();
             foreach (Products prod in list)
             {
                 Console.WriteLine("Product ID {0} Product Name: {1}", prod.ProductID, prod.ProductName);
@@ -37,6 +43,12 @@ namespace ConAppListEdit
         {
             var result = from r in list where r.ProductID == 2 select r;
             result.First().ProductName = "Chan";
+        }
+
+        public static void DeleteListItem()
+        {
+            var result = from r in list where r.ProductID == 2 select r;
+            list.Remove(result.First());
         }
     }
 }

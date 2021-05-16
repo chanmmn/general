@@ -9,3 +9,14 @@ C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppLis
 C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.AssemblyInfo.cs
 C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.dll
 C:\test\cstudent\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.pdb
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.deps.json
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.runtimeconfig.json
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.runtimeconfig.dev.json
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.dll
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\bin\Debug\netcoreapp2.1\ConAppListEdit.pdb
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.csprojAssemblyReference.cache
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.csproj.CoreCompileInputs.cache
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.AssemblyInfoInputs.cache
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.AssemblyInfo.cs
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.dll
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\general\ConAppListEdit\ConAppListEdit\obj\Debug\netcoreapp2.1\ConAppListEdit.pdb

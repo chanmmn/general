@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\test\\cstudent\\ConAppListEdit\\ConAppListEdit\\ConAppListEdit.csproj",
+      "projectUniqueName": "C:\\mydata\\k365labs\\OneDrive - K365labs Sdn Bhd\\Documents\\GitHub\\general\\ConAppListEdit\\ConAppListEdit\\ConAppListEdit.csproj",
       "projectName": "ConAppListEdit",
-      "projectPath": "C:\\test\\cstudent\\ConAppListEdit\\ConAppListEdit\\ConAppListEdit.csproj",
+      "projectPath": "C:\\mydata\\k365labs\\OneDrive - K365labs Sdn Bhd\\Documents\\GitHub\\general\\ConAppListEdit\\ConAppListEdit\\ConAppListEdit.csproj",
       "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-      "outputPath": "C:\\test\\cstudent\\ConAppListEdit\\ConAppListEdit\\obj\\",
+      "outputPath": "C:\\mydata\\k365labs\\OneDrive - K365labs Sdn Bhd\\Documents\\GitHub\\general\\ConAppListEdit\\ConAppListEdit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
