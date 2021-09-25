@@ -1,0 +1,7 @@
+C:\test\other\ConAppOpenUrl\ConAppOpenUrl\bin\Debug\ConAppOpenUrl.exe.config
+C:\test\other\ConAppOpenUrl\ConAppOpenUrl\bin\Debug\ConAppOpenUrl.exe
+C:\test\other\ConAppOpenUrl\ConAppOpenUrl\bin\Debug\ConAppOpenUrl.pdb
+C:\test\other\ConAppOpenUrl\ConAppOpenUrl\obj\Debug\ConAppOpenUrl.csproj.CoreCompileInputs.cache
+C:\test\other\ConAppOpenUrl\ConAppOpenUrl\obj\Debug\ConAppOpenUrl.exe
+C:\test\other\ConAppOpenUrl\ConAppOpenUrl\obj\Debug\ConAppOpenUrl.pdb
+C:\test\other\ConAppOpenUrl\ConAppOpenUrl\obj\Debug\ConAppOpenUrl.csproj.AssemblyReference.cache
