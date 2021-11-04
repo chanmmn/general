@@ -1,0 +1,16 @@
+C:\test\other\MyTcpListener\MyTcpListener\bin\Debug\net6.0\MyTcpListener.exe
+C:\test\other\MyTcpListener\MyTcpListener\bin\Debug\net6.0\MyTcpListener.deps.json
+C:\test\other\MyTcpListener\MyTcpListener\bin\Debug\net6.0\MyTcpListener.runtimeconfig.json
+C:\test\other\MyTcpListener\MyTcpListener\bin\Debug\net6.0\MyTcpListener.dll
+C:\test\other\MyTcpListener\MyTcpListener\bin\Debug\net6.0\ref\MyTcpListener.dll
+C:\test\other\MyTcpListener\MyTcpListener\bin\Debug\net6.0\MyTcpListener.pdb
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\MyTcpListener.GlobalUsings.g.cs
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\MyTcpListener.csproj.AssemblyReference.cache
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\MyTcpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\MyTcpListener.AssemblyInfoInputs.cache
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\MyTcpListener.AssemblyInfo.cs
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\MyTcpListener.csproj.CoreCompileInputs.cache
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\MyTcpListener.dll
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\ref\MyTcpListener.dll
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\MyTcpListener.pdb
+C:\test\other\MyTcpListener\MyTcpListener\obj\Debug\net6.0\MyTcpListener.genruntimeconfig.cache

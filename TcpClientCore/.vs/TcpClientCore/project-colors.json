@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20e2bd47-27a9-4032-8cc0-66c599471964": {
+      "ProjectGuid": "20e2bd47-27a9-4032-8cc0-66c599471964",
+      "DisplayName": "TcpClientCore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

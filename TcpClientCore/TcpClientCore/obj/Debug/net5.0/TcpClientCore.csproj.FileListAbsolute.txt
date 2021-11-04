@@ -1,0 +1,16 @@
+C:\test\other\TcpClientCore\TcpClientCore\bin\Debug\net5.0\TcpClientCore.exe
+C:\test\other\TcpClientCore\TcpClientCore\bin\Debug\net5.0\TcpClientCore.deps.json
+C:\test\other\TcpClientCore\TcpClientCore\bin\Debug\net5.0\TcpClientCore.runtimeconfig.json
+C:\test\other\TcpClientCore\TcpClientCore\bin\Debug\net5.0\TcpClientCore.runtimeconfig.dev.json
+C:\test\other\TcpClientCore\TcpClientCore\bin\Debug\net5.0\TcpClientCore.dll
+C:\test\other\TcpClientCore\TcpClientCore\bin\Debug\net5.0\ref\TcpClientCore.dll
+C:\test\other\TcpClientCore\TcpClientCore\bin\Debug\net5.0\TcpClientCore.pdb
+C:\test\other\TcpClientCore\TcpClientCore\obj\Debug\net5.0\TcpClientCore.csproj.AssemblyReference.cache
+C:\test\other\TcpClientCore\TcpClientCore\obj\Debug\net5.0\TcpClientCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\TcpClientCore\TcpClientCore\obj\Debug\net5.0\TcpClientCore.AssemblyInfoInputs.cache
+C:\test\other\TcpClientCore\TcpClientCore\obj\Debug\net5.0\TcpClientCore.AssemblyInfo.cs
+C:\test\other\TcpClientCore\TcpClientCore\obj\Debug\net5.0\TcpClientCore.csproj.CoreCompileInputs.cache
+C:\test\other\TcpClientCore\TcpClientCore\obj\Debug\net5.0\TcpClientCore.dll
+C:\test\other\TcpClientCore\TcpClientCore\obj\Debug\net5.0\ref\TcpClientCore.dll
+C:\test\other\TcpClientCore\TcpClientCore\obj\Debug\net5.0\TcpClientCore.pdb
+C:\test\other\TcpClientCore\TcpClientCore\obj\Debug\net5.0\TcpClientCore.genruntimeconfig.cache

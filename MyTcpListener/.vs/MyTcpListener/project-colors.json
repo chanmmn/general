@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "edc9fff3-e1bc-42e8-a70b-22d794513d6f": {
+      "ProjectGuid": "edc9fff3-e1bc-42e8-a70b-22d794513d6f",
+      "DisplayName": "MyTcpListener",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
