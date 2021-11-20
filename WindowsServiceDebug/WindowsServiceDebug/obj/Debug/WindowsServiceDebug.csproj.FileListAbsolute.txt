@@ -1,0 +1,13 @@
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\bin\Debug\WindowsServiceDebug.exe.config
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\bin\Debug\WindowsServiceDebug.exe
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\bin\Debug\WindowsServiceDebug.pdb
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\obj\Debug\WindowsServiceDebug.csproj.CoreCompileInputs.cache
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\obj\Debug\WindowsServiceDebug.exe
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\obj\Debug\WindowsServiceDebug.pdb
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\bin\Debug\System.Diagnostics.EventLog.dll
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\bin\Debug\System.Security.Principal.Windows.dll
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\bin\Debug\System.Diagnostics.EventLog.xml
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\bin\Debug\System.Security.Principal.Windows.xml
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\test\other\WinService\WindowsServiceDebug\WindowsServiceDebug\obj\Debug\WindowsServiceDebug.csproj.AssemblyReference.cache
