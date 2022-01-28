@@ -1,0 +1,15 @@
+C:\temp\training\ConAppThreeNum\obj\Debug\net5.0\ConAppThreeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\training\ConAppThreeNum\obj\Debug\net5.0\ConAppThreeNum.AssemblyInfoInputs.cache
+C:\temp\training\ConAppThreeNum\obj\Debug\net5.0\ConAppThreeNum.AssemblyInfo.cs
+C:\temp\training\ConAppThreeNum\obj\Debug\net5.0\ConAppThreeNum.csproj.CoreCompileInputs.cache
+C:\temp\training\ConAppThreeNum\bin\Debug\net5.0\ConAppThreeNum.exe
+C:\temp\training\ConAppThreeNum\bin\Debug\net5.0\ConAppThreeNum.deps.json
+C:\temp\training\ConAppThreeNum\bin\Debug\net5.0\ConAppThreeNum.runtimeconfig.json
+C:\temp\training\ConAppThreeNum\bin\Debug\net5.0\ConAppThreeNum.runtimeconfig.dev.json
+C:\temp\training\ConAppThreeNum\bin\Debug\net5.0\ConAppThreeNum.dll
+C:\temp\training\ConAppThreeNum\bin\Debug\net5.0\ref\ConAppThreeNum.dll
+C:\temp\training\ConAppThreeNum\bin\Debug\net5.0\ConAppThreeNum.pdb
+C:\temp\training\ConAppThreeNum\obj\Debug\net5.0\ConAppThreeNum.dll
+C:\temp\training\ConAppThreeNum\obj\Debug\net5.0\ref\ConAppThreeNum.dll
+C:\temp\training\ConAppThreeNum\obj\Debug\net5.0\ConAppThreeNum.pdb
+C:\temp\training\ConAppThreeNum\obj\Debug\net5.0\ConAppThreeNum.genruntimeconfig.cache
