@@ -1,0 +1,16 @@
+D:\temp\Training\bubbleNew\bubble\bin\Debug\net5.0\bubble.exe
+D:\temp\Training\bubbleNew\bubble\bin\Debug\net5.0\bubble.deps.json
+D:\temp\Training\bubbleNew\bubble\bin\Debug\net5.0\bubble.runtimeconfig.json
+D:\temp\Training\bubbleNew\bubble\bin\Debug\net5.0\bubble.runtimeconfig.dev.json
+D:\temp\Training\bubbleNew\bubble\bin\Debug\net5.0\bubble.dll
+D:\temp\Training\bubbleNew\bubble\bin\Debug\net5.0\ref\bubble.dll
+D:\temp\Training\bubbleNew\bubble\bin\Debug\net5.0\bubble.pdb
+D:\temp\Training\bubbleNew\bubble\obj\Debug\net5.0\bubble.csproj.AssemblyReference.cache
+D:\temp\Training\bubbleNew\bubble\obj\Debug\net5.0\bubble.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\Training\bubbleNew\bubble\obj\Debug\net5.0\bubble.AssemblyInfoInputs.cache
+D:\temp\Training\bubbleNew\bubble\obj\Debug\net5.0\bubble.AssemblyInfo.cs
+D:\temp\Training\bubbleNew\bubble\obj\Debug\net5.0\bubble.csproj.CoreCompileInputs.cache
+D:\temp\Training\bubbleNew\bubble\obj\Debug\net5.0\bubble.dll
+D:\temp\Training\bubbleNew\bubble\obj\Debug\net5.0\ref\bubble.dll
+D:\temp\Training\bubbleNew\bubble\obj\Debug\net5.0\bubble.pdb
+D:\temp\Training\bubbleNew\bubble\obj\Debug\net5.0\bubble.genruntimeconfig.cache

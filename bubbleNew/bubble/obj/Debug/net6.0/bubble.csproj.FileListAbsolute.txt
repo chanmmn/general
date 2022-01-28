@@ -1,0 +1,15 @@
+C:\vscode\bubble\bin\Debug\net6.0\bubble.exe
+C:\vscode\bubble\bin\Debug\net6.0\bubble.deps.json
+C:\vscode\bubble\bin\Debug\net6.0\bubble.runtimeconfig.json
+C:\vscode\bubble\bin\Debug\net6.0\bubble.dll
+C:\vscode\bubble\bin\Debug\net6.0\ref\bubble.dll
+C:\vscode\bubble\bin\Debug\net6.0\bubble.pdb
+C:\vscode\bubble\obj\Debug\net6.0\bubble.csproj.AssemblyReference.cache
+C:\vscode\bubble\obj\Debug\net6.0\bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\bubble\obj\Debug\net6.0\bubble.AssemblyInfoInputs.cache
+C:\vscode\bubble\obj\Debug\net6.0\bubble.AssemblyInfo.cs
+C:\vscode\bubble\obj\Debug\net6.0\bubble.csproj.CoreCompileInputs.cache
+C:\vscode\bubble\obj\Debug\net6.0\bubble.dll
+C:\vscode\bubble\obj\Debug\net6.0\ref\bubble.dll
+C:\vscode\bubble\obj\Debug\net6.0\bubble.pdb
+C:\vscode\bubble\obj\Debug\net6.0\bubble.genruntimeconfig.cache
