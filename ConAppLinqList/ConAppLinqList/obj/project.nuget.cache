@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vmbHv5UaIxaRNIV1wM+qnBainZzTj3eceJaD0tWPiZr9+CdfEjMxC/LcmSqYQN9LfrMWBR1YmSnA5i/9EG3eKg==",
+  "success": true,
+  "projectFilePath": "C:\\test\\other\\ConAppLinqList\\ConAppLinqList\\ConAppLinqList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chan-mingman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

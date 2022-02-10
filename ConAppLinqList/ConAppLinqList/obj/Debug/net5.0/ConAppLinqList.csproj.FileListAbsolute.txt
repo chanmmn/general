@@ -1,0 +1,15 @@
+C:\test\other\ConAppLinqList\ConAppLinqList\bin\Debug\net5.0\ConAppLinqList.exe
+C:\test\other\ConAppLinqList\ConAppLinqList\bin\Debug\net5.0\ConAppLinqList.deps.json
+C:\test\other\ConAppLinqList\ConAppLinqList\bin\Debug\net5.0\ConAppLinqList.runtimeconfig.json
+C:\test\other\ConAppLinqList\ConAppLinqList\bin\Debug\net5.0\ConAppLinqList.runtimeconfig.dev.json
+C:\test\other\ConAppLinqList\ConAppLinqList\bin\Debug\net5.0\ConAppLinqList.dll
+C:\test\other\ConAppLinqList\ConAppLinqList\bin\Debug\net5.0\ref\ConAppLinqList.dll
+C:\test\other\ConAppLinqList\ConAppLinqList\bin\Debug\net5.0\ConAppLinqList.pdb
+C:\test\other\ConAppLinqList\ConAppLinqList\obj\Debug\net5.0\ConAppLinqList.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\ConAppLinqList\ConAppLinqList\obj\Debug\net5.0\ConAppLinqList.AssemblyInfoInputs.cache
+C:\test\other\ConAppLinqList\ConAppLinqList\obj\Debug\net5.0\ConAppLinqList.AssemblyInfo.cs
+C:\test\other\ConAppLinqList\ConAppLinqList\obj\Debug\net5.0\ConAppLinqList.csproj.CoreCompileInputs.cache
+C:\test\other\ConAppLinqList\ConAppLinqList\obj\Debug\net5.0\ConAppLinqList.dll
+C:\test\other\ConAppLinqList\ConAppLinqList\obj\Debug\net5.0\ref\ConAppLinqList.dll
+C:\test\other\ConAppLinqList\ConAppLinqList\obj\Debug\net5.0\ConAppLinqList.pdb
+C:\test\other\ConAppLinqList\ConAppLinqList\obj\Debug\net5.0\ConAppLinqList.genruntimeconfig.cache
