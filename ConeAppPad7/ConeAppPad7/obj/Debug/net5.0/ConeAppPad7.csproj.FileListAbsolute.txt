@@ -1,0 +1,15 @@
+D:\test\cobol\ConeAppPad7\ConeAppPad7\bin\Debug\net5.0\ConeAppPad7.exe
+D:\test\cobol\ConeAppPad7\ConeAppPad7\bin\Debug\net5.0\ConeAppPad7.deps.json
+D:\test\cobol\ConeAppPad7\ConeAppPad7\bin\Debug\net5.0\ConeAppPad7.runtimeconfig.json
+D:\test\cobol\ConeAppPad7\ConeAppPad7\bin\Debug\net5.0\ConeAppPad7.runtimeconfig.dev.json
+D:\test\cobol\ConeAppPad7\ConeAppPad7\bin\Debug\net5.0\ConeAppPad7.dll
+D:\test\cobol\ConeAppPad7\ConeAppPad7\bin\Debug\net5.0\ref\ConeAppPad7.dll
+D:\test\cobol\ConeAppPad7\ConeAppPad7\bin\Debug\net5.0\ConeAppPad7.pdb
+D:\test\cobol\ConeAppPad7\ConeAppPad7\obj\Debug\net5.0\ConeAppPad7.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\cobol\ConeAppPad7\ConeAppPad7\obj\Debug\net5.0\ConeAppPad7.AssemblyInfoInputs.cache
+D:\test\cobol\ConeAppPad7\ConeAppPad7\obj\Debug\net5.0\ConeAppPad7.AssemblyInfo.cs
+D:\test\cobol\ConeAppPad7\ConeAppPad7\obj\Debug\net5.0\ConeAppPad7.csproj.CoreCompileInputs.cache
+D:\test\cobol\ConeAppPad7\ConeAppPad7\obj\Debug\net5.0\ConeAppPad7.dll
+D:\test\cobol\ConeAppPad7\ConeAppPad7\obj\Debug\net5.0\ref\ConeAppPad7.dll
+D:\test\cobol\ConeAppPad7\ConeAppPad7\obj\Debug\net5.0\ConeAppPad7.pdb
+D:\test\cobol\ConeAppPad7\ConeAppPad7\obj\Debug\net5.0\ConeAppPad7.genruntimeconfig.cache
