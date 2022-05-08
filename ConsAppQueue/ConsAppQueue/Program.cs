@@ -8,11 +8,14 @@ namespace Queue_Delegates
     public class RecordStorage
     {
         public delegate int InsertTable();
+        string value = "";
         public void ReportResult(InsertTable InsertDelegate)
         {            
             if (InsertDelegate() == 0)
             {
-                Console.WriteLine("Insert successfully.");                
+                Console.WriteLine("Insert successfully.");
+                value = QueueData.recordqueue.Dequeue();
+                Console.WriteLine("Dequque {0}", value);
             }
             else
             {
@@ -33,8 +36,8 @@ namespace Queue_Delegates
         public int InsetData()
         {
             Console.WriteLine("Simulating Insert Record.");
-            value = QueueData.recordqueue.Dequeue();
-            Console.WriteLine("Dequeue {0}", value);
+            value = QueueData.recordqueue.Peek();
+            Console.WriteLine("Insert {0}", value);
             InsertStatus = 0;
             return InsertStatus;
         }
