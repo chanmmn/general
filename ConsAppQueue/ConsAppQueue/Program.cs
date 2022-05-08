@@ -9,13 +9,10 @@ namespace Queue_Delegates
     {
         public delegate int InsertTable();
         public void ReportResult(InsertTable InsertDelegate)
-        {
-            string value = "";
+        {            
             if (InsertDelegate() == 0)
             {
-                Console.WriteLine("Insert successfully.");
-                value = QueueData.recordqueue.Dequeue();
-                Console.WriteLine("Dequeue {0}", value);
+                Console.WriteLine("Insert successfully.");                
             }
             else
             {
@@ -32,10 +29,12 @@ namespace Queue_Delegates
     public class AccountTable
     {
         private int InsertStatus;
-
+        string value = "";
         public int InsetData()
         {
             Console.WriteLine("Simulating Insert Record.");
+            value = QueueData.recordqueue.Dequeue();
+            Console.WriteLine("Dequeue {0}", value);
             InsertStatus = 0;
             return InsertStatus;
         }
@@ -47,18 +46,18 @@ namespace Queue_Delegates
         {
             RecordStorage myRecordStorage = new RecordStorage();
 
-            // instantiate the two media players
-            AccountTable myAudioPlayer = new AccountTable();
+            // instantiate the Account Table
+            AccountTable accountTable = new AccountTable();
 
 
             // instantiate the delegates
-            RecordStorage.InsertTable audioPlayerDelegate = new
-                   RecordStorage.InsertTable(myAudioPlayer.InsetData);
+            RecordStorage.InsertTable InsertDelegate = new
+                   RecordStorage.InsertTable(accountTable.InsetData);
 
             // call the delegates
             while(QueueData.recordqueue.Count > 0)
             {
-                myRecordStorage.ReportResult(audioPlayerDelegate);
+                myRecordStorage.ReportResult(InsertDelegate);
             }
         }
     }
