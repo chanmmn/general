@@ -19,7 +19,7 @@ namespace Queue_Delegates
             }
             else
             {
-                Console.WriteLine("Insert not play successfully.");
+                Console.WriteLine("Insert not successfully.");
             }
         }
     }
