@@ -1,0 +1,16 @@
+D:\test\other\ConsAppQueue\ConsAppQueue\bin\Debug\net5.0\ConsAppQueue.exe
+D:\test\other\ConsAppQueue\ConsAppQueue\bin\Debug\net5.0\ConsAppQueue.deps.json
+D:\test\other\ConsAppQueue\ConsAppQueue\bin\Debug\net5.0\ConsAppQueue.runtimeconfig.json
+D:\test\other\ConsAppQueue\ConsAppQueue\bin\Debug\net5.0\ConsAppQueue.runtimeconfig.dev.json
+D:\test\other\ConsAppQueue\ConsAppQueue\bin\Debug\net5.0\ConsAppQueue.dll
+D:\test\other\ConsAppQueue\ConsAppQueue\bin\Debug\net5.0\ref\ConsAppQueue.dll
+D:\test\other\ConsAppQueue\ConsAppQueue\bin\Debug\net5.0\ConsAppQueue.pdb
+D:\test\other\ConsAppQueue\ConsAppQueue\obj\Debug\net5.0\ConsAppQueue.csproj.AssemblyReference.cache
+D:\test\other\ConsAppQueue\ConsAppQueue\obj\Debug\net5.0\ConsAppQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\other\ConsAppQueue\ConsAppQueue\obj\Debug\net5.0\ConsAppQueue.AssemblyInfoInputs.cache
+D:\test\other\ConsAppQueue\ConsAppQueue\obj\Debug\net5.0\ConsAppQueue.AssemblyInfo.cs
+D:\test\other\ConsAppQueue\ConsAppQueue\obj\Debug\net5.0\ConsAppQueue.csproj.CoreCompileInputs.cache
+D:\test\other\ConsAppQueue\ConsAppQueue\obj\Debug\net5.0\ConsAppQueue.dll
+D:\test\other\ConsAppQueue\ConsAppQueue\obj\Debug\net5.0\ref\ConsAppQueue.dll
+D:\test\other\ConsAppQueue\ConsAppQueue\obj\Debug\net5.0\ConsAppQueue.pdb
+D:\test\other\ConsAppQueue\ConsAppQueue\obj\Debug\net5.0\ConsAppQueue.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConeAppPad7/1.0.0": {
+        "runtime": {
+          "ConeAppPad7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConeAppPad7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

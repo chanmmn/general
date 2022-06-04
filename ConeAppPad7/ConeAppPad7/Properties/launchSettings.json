@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConeAppPad7": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\test\\cobol\\hellonew.cbl"
+    }
+  }
+}
