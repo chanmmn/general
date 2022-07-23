@@ -29,9 +29,9 @@ public class BankTransaction : IComparable
     {
         if (obj == null) return 1;
 
-        BankTransaction otherTemperature = obj as BankTransaction;
-        if (otherTemperature != null)
-            return this.transactionDate.CompareTo(otherTemperature.transactionDate);
+        BankTransaction otherTrans = obj as BankTransaction;
+        if (otherTrans != null)
+            return this.transactionDate.CompareTo(otherTrans.transactionDate);
         else
             throw new ArgumentException("Object is not a Date");
     }
@@ -61,7 +61,7 @@ public class BankTransaction : IComparable
     }
 }
 
-public class CompareTemperatures
+public class CompareTransaction
 {
     public static void Main()
     {
@@ -75,12 +75,13 @@ public class CompareTemperatures
             DateTime transDate = date.Next();
             BankTransaction temp = new BankTransaction();
             temp.TransactionDate = transDate;
+            temp.AccID = ctr;
             BankTrans.Add(temp);
         }
 
         BankTrans.Sort();
 
         foreach (BankTransaction temp in BankTrans)
-            Console.WriteLine(temp.TransactionDate);
+            Console.WriteLine("{0}, {1}", temp.AccID, temp.TransactionDate);
     }
 }
