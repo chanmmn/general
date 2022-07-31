@@ -1,0 +1,7 @@
+C:\test\other\ConnAppSendEmail\ConnAppSendEmail\obj\Debug\ConnAppSendEmail.csproj.AssemblyReference.cache
+C:\test\other\ConnAppSendEmail\ConnAppSendEmail\obj\Debug\ConnAppSendEmail.csproj.CoreCompileInputs.cache
+C:\test\other\ConnAppSendEmail\ConnAppSendEmail\bin\Debug\ConnAppSendEmail.exe.config
+C:\test\other\ConnAppSendEmail\ConnAppSendEmail\bin\Debug\ConnAppSendEmail.exe
+C:\test\other\ConnAppSendEmail\ConnAppSendEmail\bin\Debug\ConnAppSendEmail.pdb
+C:\test\other\ConnAppSendEmail\ConnAppSendEmail\obj\Debug\ConnAppSendEmail.exe
+C:\test\other\ConnAppSendEmail\ConnAppSendEmail\obj\Debug\ConnAppSendEmail.pdb
