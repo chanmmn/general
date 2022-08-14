@@ -1,0 +1,5 @@
+C:\test\other\ConsAppWhereT\ConsAppWhereT\obj\Debug\net5.0\ConsAppWhereT.csproj.AssemblyReference.cache
+C:\test\other\ConsAppWhereT\ConsAppWhereT\obj\Debug\net5.0\ConsAppWhereT.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\ConsAppWhereT\ConsAppWhereT\obj\Debug\net5.0\ConsAppWhereT.AssemblyInfoInputs.cache
+C:\test\other\ConsAppWhereT\ConsAppWhereT\obj\Debug\net5.0\ConsAppWhereT.AssemblyInfo.cs
+C:\test\other\ConsAppWhereT\ConsAppWhereT\obj\Debug\net5.0\ConsAppWhereT.csproj.CoreCompileInputs.cache
