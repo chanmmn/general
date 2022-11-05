@@ -1,0 +1,15 @@
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\bin\Debug\net6.0\ConAppSystemNetMail.exe
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\bin\Debug\net6.0\ConAppSystemNetMail.deps.json
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\bin\Debug\net6.0\ConAppSystemNetMail.runtimeconfig.json
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\bin\Debug\net6.0\ConAppSystemNetMail.dll
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\bin\Debug\net6.0\ConAppSystemNetMail.pdb
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\ConAppSystemNetMail.csproj.AssemblyReference.cache
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\ConAppSystemNetMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\ConAppSystemNetMail.AssemblyInfoInputs.cache
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\ConAppSystemNetMail.AssemblyInfo.cs
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\ConAppSystemNetMail.csproj.CoreCompileInputs.cache
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\ConAppSystemNetMail.dll
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\refint\ConAppSystemNetMail.dll
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\ConAppSystemNetMail.pdb
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\ConAppSystemNetMail.genruntimeconfig.cache
+C:\test\other\Training\ConAppSystemNetMail\ConAppSystemNetMail\obj\Debug\net6.0\ref\ConAppSystemNetMail.dll
