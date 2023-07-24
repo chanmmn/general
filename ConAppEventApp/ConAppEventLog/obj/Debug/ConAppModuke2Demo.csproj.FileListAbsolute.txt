@@ -1,0 +1,7 @@
+D:\test\other\Training\ConAppModuke2Demo\ConAppModuke2Demo\bin\Debug\ConAppModuke2Demo.exe.config
+D:\test\other\Training\ConAppModuke2Demo\ConAppModuke2Demo\bin\Debug\ConAppModuke2Demo.exe
+D:\test\other\Training\ConAppModuke2Demo\ConAppModuke2Demo\bin\Debug\ConAppModuke2Demo.pdb
+D:\test\other\Training\ConAppModuke2Demo\ConAppModuke2Demo\obj\Debug\ConAppModuke2Demo.csproj.AssemblyReference.cache
+D:\test\other\Training\ConAppModuke2Demo\ConAppModuke2Demo\obj\Debug\ConAppModuke2Demo.csproj.CoreCompileInputs.cache
+D:\test\other\Training\ConAppModuke2Demo\ConAppModuke2Demo\obj\Debug\ConAppModuke2Demo.exe
+D:\test\other\Training\ConAppModuke2Demo\ConAppModuke2Demo\obj\Debug\ConAppModuke2Demo.pdb

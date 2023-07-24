@@ -1,0 +1,16 @@
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\bin\Debug\net5.0\ConAppIcomparable.exe
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\bin\Debug\net5.0\ConAppIcomparable.deps.json
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\bin\Debug\net5.0\ConAppIcomparable.runtimeconfig.json
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\bin\Debug\net5.0\ConAppIcomparable.runtimeconfig.dev.json
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\bin\Debug\net5.0\ConAppIcomparable.dll
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\bin\Debug\net5.0\ref\ConAppIcomparable.dll
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\bin\Debug\net5.0\ConAppIcomparable.pdb
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\obj\Debug\net5.0\ConAppIcomparable.csproj.AssemblyReference.cache
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\obj\Debug\net5.0\ConAppIcomparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\obj\Debug\net5.0\ConAppIcomparable.AssemblyInfoInputs.cache
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\obj\Debug\net5.0\ConAppIcomparable.AssemblyInfo.cs
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\obj\Debug\net5.0\ConAppIcomparable.csproj.CoreCompileInputs.cache
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\obj\Debug\net5.0\ConAppIcomparable.dll
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\obj\Debug\net5.0\ref\ConAppIcomparable.dll
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\obj\Debug\net5.0\ConAppIcomparable.pdb
+D:\test\other\Training\ConAppIcomparable\ConAppIcomparable\obj\Debug\net5.0\ConAppIcomparable.genruntimeconfig.cache

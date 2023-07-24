@@ -1,0 +1,16 @@
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\bin\Debug\net5.0\ConsAppGenDate.exe
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\bin\Debug\net5.0\ConsAppGenDate.deps.json
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\bin\Debug\net5.0\ConsAppGenDate.runtimeconfig.json
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\bin\Debug\net5.0\ConsAppGenDate.runtimeconfig.dev.json
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\bin\Debug\net5.0\ConsAppGenDate.dll
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\bin\Debug\net5.0\ref\ConsAppGenDate.dll
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\bin\Debug\net5.0\ConsAppGenDate.pdb
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\obj\Debug\net5.0\ConsAppGenDate.csproj.AssemblyReference.cache
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\obj\Debug\net5.0\ConsAppGenDate.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\obj\Debug\net5.0\ConsAppGenDate.AssemblyInfoInputs.cache
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\obj\Debug\net5.0\ConsAppGenDate.AssemblyInfo.cs
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\obj\Debug\net5.0\ConsAppGenDate.csproj.CoreCompileInputs.cache
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\obj\Debug\net5.0\ConsAppGenDate.dll
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\obj\Debug\net5.0\ref\ConsAppGenDate.dll
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\obj\Debug\net5.0\ConsAppGenDate.pdb
+D:\test\other\Training\ConsAppGenDate\ConsAppGenDate\obj\Debug\net5.0\ConsAppGenDate.genruntimeconfig.cache
