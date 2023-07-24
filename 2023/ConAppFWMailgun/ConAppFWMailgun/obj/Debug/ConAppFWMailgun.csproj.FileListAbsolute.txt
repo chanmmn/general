@@ -1,0 +1,7 @@
+C:\test\other\ConAppFWMailgun\ConAppFWMailgun\bin\Debug\ConAppFWMailgun.exe.config
+C:\test\other\ConAppFWMailgun\ConAppFWMailgun\bin\Debug\ConAppFWMailgun.exe
+C:\test\other\ConAppFWMailgun\ConAppFWMailgun\bin\Debug\ConAppFWMailgun.pdb
+C:\test\other\ConAppFWMailgun\ConAppFWMailgun\obj\Debug\ConAppFWMailgun.csproj.AssemblyReference.cache
+C:\test\other\ConAppFWMailgun\ConAppFWMailgun\obj\Debug\ConAppFWMailgun.csproj.CoreCompileInputs.cache
+C:\test\other\ConAppFWMailgun\ConAppFWMailgun\obj\Debug\ConAppFWMailgun.exe
+C:\test\other\ConAppFWMailgun\ConAppFWMailgun\obj\Debug\ConAppFWMailgun.pdb
