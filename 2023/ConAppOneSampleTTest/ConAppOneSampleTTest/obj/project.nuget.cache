@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1QDOIFyfh6aFq9w60f4sR744j3d+GOgIaFEmnYl0xdiqzBJ6wupbRZpWebqb9Fwo3HWvhuK2Ie/QneXWWYpxg==",
+  "success": true,
+  "projectFilePath": "D:\\test\\other\\Training\\ConAppOneSampleTTest\\ConAppOneSampleTTest\\ConAppOneSampleTTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
