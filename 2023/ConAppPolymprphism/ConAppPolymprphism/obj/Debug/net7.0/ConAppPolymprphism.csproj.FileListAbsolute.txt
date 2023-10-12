@@ -1,0 +1,14 @@
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\bin\Debug\net7.0\ConAppPolymprphism.exe
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\bin\Debug\net7.0\ConAppPolymprphism.deps.json
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\bin\Debug\net7.0\ConAppPolymprphism.runtimeconfig.json
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\bin\Debug\net7.0\ConAppPolymprphism.dll
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\bin\Debug\net7.0\ConAppPolymprphism.pdb
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\obj\Debug\net7.0\ConAppPolymprphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\obj\Debug\net7.0\ConAppPolymprphism.AssemblyInfoInputs.cache
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\obj\Debug\net7.0\ConAppPolymprphism.AssemblyInfo.cs
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\obj\Debug\net7.0\ConAppPolymprphism.csproj.CoreCompileInputs.cache
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\obj\Debug\net7.0\ConAppPolymprphism.dll
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\obj\Debug\net7.0\refint\ConAppPolymprphism.dll
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\obj\Debug\net7.0\ConAppPolymprphism.pdb
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\obj\Debug\net7.0\ConAppPolymprphism.genruntimeconfig.cache
+D:\test\other\Training\ConAppPolymprphism\ConAppPolymprphism\obj\Debug\net7.0\ref\ConAppPolymprphism.dll
