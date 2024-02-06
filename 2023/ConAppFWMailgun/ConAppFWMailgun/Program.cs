@@ -27,7 +27,7 @@ namespace ConAppFWMailgun
         { "html", "Test Sent by Mailgun" }
     });
 
-                var result = await httpClient.PostAsync($"https://api.mailgun.net/v3/mail.fathopesenergy.com/messages", formContent);
+                var result = await httpClient.PostAsync($"https://api.mailgun.net/v3/mail.domain.com/messages", formContent);
                 result.EnsureSuccessStatusCode();
             }
         }
