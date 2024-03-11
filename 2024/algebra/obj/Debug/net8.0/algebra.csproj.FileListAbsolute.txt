@@ -1,0 +1,14 @@
+c:\vscode\algebra\bin\Debug\net8.0\algebra.exe
+c:\vscode\algebra\bin\Debug\net8.0\algebra.deps.json
+c:\vscode\algebra\bin\Debug\net8.0\algebra.runtimeconfig.json
+c:\vscode\algebra\bin\Debug\net8.0\algebra.dll
+c:\vscode\algebra\bin\Debug\net8.0\algebra.pdb
+c:\vscode\algebra\obj\Debug\net8.0\algebra.GeneratedMSBuildEditorConfig.editorconfig
+c:\vscode\algebra\obj\Debug\net8.0\algebra.AssemblyInfoInputs.cache
+c:\vscode\algebra\obj\Debug\net8.0\algebra.AssemblyInfo.cs
+c:\vscode\algebra\obj\Debug\net8.0\algebra.csproj.CoreCompileInputs.cache
+c:\vscode\algebra\obj\Debug\net8.0\algebra.dll
+c:\vscode\algebra\obj\Debug\net8.0\refint\algebra.dll
+c:\vscode\algebra\obj\Debug\net8.0\algebra.pdb
+c:\vscode\algebra\obj\Debug\net8.0\algebra.genruntimeconfig.cache
+c:\vscode\algebra\obj\Debug\net8.0\ref\algebra.dll
