@@ -1,0 +1,14 @@
+c:\vscode\fuctioncs\bin\Debug\net8.0\fuctioncs.exe
+c:\vscode\fuctioncs\bin\Debug\net8.0\fuctioncs.deps.json
+c:\vscode\fuctioncs\bin\Debug\net8.0\fuctioncs.runtimeconfig.json
+c:\vscode\fuctioncs\bin\Debug\net8.0\fuctioncs.dll
+c:\vscode\fuctioncs\bin\Debug\net8.0\fuctioncs.pdb
+c:\vscode\fuctioncs\obj\Debug\net8.0\fuctioncs.GeneratedMSBuildEditorConfig.editorconfig
+c:\vscode\fuctioncs\obj\Debug\net8.0\fuctioncs.AssemblyInfoInputs.cache
+c:\vscode\fuctioncs\obj\Debug\net8.0\fuctioncs.AssemblyInfo.cs
+c:\vscode\fuctioncs\obj\Debug\net8.0\fuctioncs.csproj.CoreCompileInputs.cache
+c:\vscode\fuctioncs\obj\Debug\net8.0\fuctioncs.dll
+c:\vscode\fuctioncs\obj\Debug\net8.0\refint\fuctioncs.dll
+c:\vscode\fuctioncs\obj\Debug\net8.0\fuctioncs.pdb
+c:\vscode\fuctioncs\obj\Debug\net8.0\fuctioncs.genruntimeconfig.cache
+c:\vscode\fuctioncs\obj\Debug\net8.0\ref\fuctioncs.dll
