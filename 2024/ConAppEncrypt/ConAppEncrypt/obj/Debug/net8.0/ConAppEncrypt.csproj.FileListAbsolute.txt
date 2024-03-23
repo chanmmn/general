@@ -1,0 +1,14 @@
+C:\test\other\ConAppEncrypt\ConAppEncrypt\bin\Debug\net8.0\ConAppEncrypt.exe
+C:\test\other\ConAppEncrypt\ConAppEncrypt\bin\Debug\net8.0\ConAppEncrypt.deps.json
+C:\test\other\ConAppEncrypt\ConAppEncrypt\bin\Debug\net8.0\ConAppEncrypt.runtimeconfig.json
+C:\test\other\ConAppEncrypt\ConAppEncrypt\bin\Debug\net8.0\ConAppEncrypt.dll
+C:\test\other\ConAppEncrypt\ConAppEncrypt\bin\Debug\net8.0\ConAppEncrypt.pdb
+C:\test\other\ConAppEncrypt\ConAppEncrypt\obj\Debug\net8.0\ConAppEncrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\ConAppEncrypt\ConAppEncrypt\obj\Debug\net8.0\ConAppEncrypt.AssemblyInfoInputs.cache
+C:\test\other\ConAppEncrypt\ConAppEncrypt\obj\Debug\net8.0\ConAppEncrypt.AssemblyInfo.cs
+C:\test\other\ConAppEncrypt\ConAppEncrypt\obj\Debug\net8.0\ConAppEncrypt.csproj.CoreCompileInputs.cache
+C:\test\other\ConAppEncrypt\ConAppEncrypt\obj\Debug\net8.0\ConAppEncrypt.dll
+C:\test\other\ConAppEncrypt\ConAppEncrypt\obj\Debug\net8.0\refint\ConAppEncrypt.dll
+C:\test\other\ConAppEncrypt\ConAppEncrypt\obj\Debug\net8.0\ConAppEncrypt.pdb
+C:\test\other\ConAppEncrypt\ConAppEncrypt\obj\Debug\net8.0\ConAppEncrypt.genruntimeconfig.cache
+C:\test\other\ConAppEncrypt\ConAppEncrypt\obj\Debug\net8.0\ref\ConAppEncrypt.dll
