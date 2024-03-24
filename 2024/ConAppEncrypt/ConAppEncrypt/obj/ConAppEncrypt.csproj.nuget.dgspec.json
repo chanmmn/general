@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\test\\other\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj": {}
+    "C:\\git\\general\\2024\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj": {}
   },
   "projects": {
-    "C:\\test\\other\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj": {
+    "C:\\git\\general\\2024\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\test\\other\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj",
+        "projectUniqueName": "C:\\git\\general\\2024\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj",
         "projectName": "ConAppEncrypt",
-        "projectPath": "C:\\test\\other\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj",
-        "packagesPath": "C:\\Users\\starcraft\\.nuget\\packages\\",
-        "outputPath": "C:\\test\\other\\ConAppEncrypt\\ConAppEncrypt\\obj\\",
+        "projectPath": "C:\\git\\general\\2024\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj",
+        "packagesPath": "C:\\Users\\mingman\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\general\\2024\\ConAppEncrypt\\ConAppEncrypt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\starcraft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mingman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

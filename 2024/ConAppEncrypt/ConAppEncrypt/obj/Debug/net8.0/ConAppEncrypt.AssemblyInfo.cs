@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConAppEncrypt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74d1c18026d0ff7ee18165e11ed1d583b6a2959a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConAppEncrypt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConAppEncrypt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o0Yz7pcnkEFhz1WYHcoQ1ZZxDxJUEJxw++dSXDUe2k40xbZP1Fw/QKCiknbTRorrUDddVArbXf2VRG8aXJ62ww==",
+  "dgSpecHash": "8JhRYwQPmr7CaMT5+v/xj4cpB0LUS4ZcW4eKtn0/omgytNNQ4jFoJY1Ey2VUx4NbbQUI6DNKA1phyYos9YamlQ==",
   "success": true,
-  "projectFilePath": "C:\\test\\other\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj",
+  "projectFilePath": "C:\\git\\general\\2024\\ConAppEncrypt\\ConAppEncrypt\\ConAppEncrypt.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

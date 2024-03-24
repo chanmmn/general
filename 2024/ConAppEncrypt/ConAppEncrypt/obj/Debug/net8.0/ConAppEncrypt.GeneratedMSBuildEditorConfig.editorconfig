@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConAppEncrypt
-build_property.ProjectDir = C:\test\other\ConAppEncrypt\ConAppEncrypt\
+build_property.ProjectDir = C:\git\general\2024\ConAppEncrypt\ConAppEncrypt\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
