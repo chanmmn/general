@@ -1,0 +1,14 @@
+c:\vscode\CalculateChildTicketCost\obj\Debug\net8.0\CalculateChildTicketCost.GeneratedMSBuildEditorConfig.editorconfig
+c:\vscode\CalculateChildTicketCost\obj\Debug\net8.0\CalculateChildTicketCost.AssemblyInfoInputs.cache
+c:\vscode\CalculateChildTicketCost\obj\Debug\net8.0\CalculateChildTicketCost.AssemblyInfo.cs
+c:\vscode\CalculateChildTicketCost\obj\Debug\net8.0\CalculateChildTicketCost.csproj.CoreCompileInputs.cache
+c:\vscode\CalculateChildTicketCost\bin\Debug\net8.0\CalculateChildTicketCost.exe
+c:\vscode\CalculateChildTicketCost\bin\Debug\net8.0\CalculateChildTicketCost.deps.json
+c:\vscode\CalculateChildTicketCost\bin\Debug\net8.0\CalculateChildTicketCost.runtimeconfig.json
+c:\vscode\CalculateChildTicketCost\bin\Debug\net8.0\CalculateChildTicketCost.dll
+c:\vscode\CalculateChildTicketCost\bin\Debug\net8.0\CalculateChildTicketCost.pdb
+c:\vscode\CalculateChildTicketCost\obj\Debug\net8.0\CalculateChildTicketCost.dll
+c:\vscode\CalculateChildTicketCost\obj\Debug\net8.0\refint\CalculateChildTicketCost.dll
+c:\vscode\CalculateChildTicketCost\obj\Debug\net8.0\CalculateChildTicketCost.pdb
+c:\vscode\CalculateChildTicketCost\obj\Debug\net8.0\CalculateChildTicketCost.genruntimeconfig.cache
+c:\vscode\CalculateChildTicketCost\obj\Debug\net8.0\ref\CalculateChildTicketCost.dll

@@ -1,0 +1,14 @@
+c:\vscode\CommonNumber\bin\Debug\net8.0\CommonNumber.exe
+c:\vscode\CommonNumber\bin\Debug\net8.0\CommonNumber.deps.json
+c:\vscode\CommonNumber\bin\Debug\net8.0\CommonNumber.runtimeconfig.json
+c:\vscode\CommonNumber\bin\Debug\net8.0\CommonNumber.dll
+c:\vscode\CommonNumber\bin\Debug\net8.0\CommonNumber.pdb
+c:\vscode\CommonNumber\obj\Debug\net8.0\CommonNumber.GeneratedMSBuildEditorConfig.editorconfig
+c:\vscode\CommonNumber\obj\Debug\net8.0\CommonNumber.AssemblyInfoInputs.cache
+c:\vscode\CommonNumber\obj\Debug\net8.0\CommonNumber.AssemblyInfo.cs
+c:\vscode\CommonNumber\obj\Debug\net8.0\CommonNumber.csproj.CoreCompileInputs.cache
+c:\vscode\CommonNumber\obj\Debug\net8.0\CommonNumber.dll
+c:\vscode\CommonNumber\obj\Debug\net8.0\refint\CommonNumber.dll
+c:\vscode\CommonNumber\obj\Debug\net8.0\CommonNumber.pdb
+c:\vscode\CommonNumber\obj\Debug\net8.0\CommonNumber.genruntimeconfig.cache
+c:\vscode\CommonNumber\obj\Debug\net8.0\ref\CommonNumber.dll
