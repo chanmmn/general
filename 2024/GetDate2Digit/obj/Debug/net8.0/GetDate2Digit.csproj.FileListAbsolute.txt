@@ -1,0 +1,14 @@
+c:\vscode\GetDate2Digit\bin\Debug\net8.0\GetDate2Digit.exe
+c:\vscode\GetDate2Digit\bin\Debug\net8.0\GetDate2Digit.deps.json
+c:\vscode\GetDate2Digit\bin\Debug\net8.0\GetDate2Digit.runtimeconfig.json
+c:\vscode\GetDate2Digit\bin\Debug\net8.0\GetDate2Digit.dll
+c:\vscode\GetDate2Digit\bin\Debug\net8.0\GetDate2Digit.pdb
+c:\vscode\GetDate2Digit\obj\Debug\net8.0\GetDate2Digit.GeneratedMSBuildEditorConfig.editorconfig
+c:\vscode\GetDate2Digit\obj\Debug\net8.0\GetDate2Digit.AssemblyInfoInputs.cache
+c:\vscode\GetDate2Digit\obj\Debug\net8.0\GetDate2Digit.AssemblyInfo.cs
+c:\vscode\GetDate2Digit\obj\Debug\net8.0\GetDate2Digit.csproj.CoreCompileInputs.cache
+c:\vscode\GetDate2Digit\obj\Debug\net8.0\GetDate2Digit.dll
+c:\vscode\GetDate2Digit\obj\Debug\net8.0\refint\GetDate2Digit.dll
+c:\vscode\GetDate2Digit\obj\Debug\net8.0\GetDate2Digit.pdb
+c:\vscode\GetDate2Digit\obj\Debug\net8.0\GetDate2Digit.genruntimeconfig.cache
+c:\vscode\GetDate2Digit\obj\Debug\net8.0\ref\GetDate2Digit.dll
