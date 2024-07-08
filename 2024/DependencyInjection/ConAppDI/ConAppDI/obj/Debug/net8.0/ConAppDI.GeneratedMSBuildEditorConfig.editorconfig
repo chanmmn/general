@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConAppDI
-build_property.ProjectDir = C:\test\other\2024\ConAppDI\ConAppDI\
+build_property.ProjectDir = C:\GitHub\general\2024\DependencyInjection\ConAppDI\ConAppDI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\test\\other\\2024\\ConAppDI\\ConAppDI\\ConAppDI.csproj",
+      "projectUniqueName": "C:\\GitHub\\general\\2024\\DependencyInjection\\ConAppDI\\ConAppDI\\ConAppDI.csproj",
       "projectName": "ConAppDI",
-      "projectPath": "C:\\test\\other\\2024\\ConAppDI\\ConAppDI\\ConAppDI.csproj",
+      "projectPath": "C:\\GitHub\\general\\2024\\DependencyInjection\\ConAppDI\\ConAppDI\\ConAppDI.csproj",
       "packagesPath": "C:\\Users\\chanmm\\.nuget\\packages\\",
-      "outputPath": "C:\\test\\other\\2024\\ConAppDI\\ConAppDI\\obj\\",
+      "outputPath": "C:\\GitHub\\general\\2024\\DependencyInjection\\ConAppDI\\ConAppDI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
