@@ -1,0 +1,14 @@
+c:\vscode\ParseXML\bin\Debug\net8.0\ParseXML.exe
+c:\vscode\ParseXML\bin\Debug\net8.0\ParseXML.deps.json
+c:\vscode\ParseXML\bin\Debug\net8.0\ParseXML.runtimeconfig.json
+c:\vscode\ParseXML\bin\Debug\net8.0\ParseXML.dll
+c:\vscode\ParseXML\bin\Debug\net8.0\ParseXML.pdb
+c:\vscode\ParseXML\obj\Debug\net8.0\ParseXML.GeneratedMSBuildEditorConfig.editorconfig
+c:\vscode\ParseXML\obj\Debug\net8.0\ParseXML.AssemblyInfoInputs.cache
+c:\vscode\ParseXML\obj\Debug\net8.0\ParseXML.AssemblyInfo.cs
+c:\vscode\ParseXML\obj\Debug\net8.0\ParseXML.csproj.CoreCompileInputs.cache
+c:\vscode\ParseXML\obj\Debug\net8.0\ParseXML.dll
+c:\vscode\ParseXML\obj\Debug\net8.0\refint\ParseXML.dll
+c:\vscode\ParseXML\obj\Debug\net8.0\ParseXML.pdb
+c:\vscode\ParseXML\obj\Debug\net8.0\ParseXML.genruntimeconfig.cache
+c:\vscode\ParseXML\obj\Debug\net8.0\ref\ParseXML.dll

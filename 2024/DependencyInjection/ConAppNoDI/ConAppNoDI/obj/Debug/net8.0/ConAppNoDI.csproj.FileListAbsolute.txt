@@ -1,0 +1,14 @@
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\bin\Debug\net8.0\ConAppNoDI.exe
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\bin\Debug\net8.0\ConAppNoDI.deps.json
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\bin\Debug\net8.0\ConAppNoDI.runtimeconfig.json
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\bin\Debug\net8.0\ConAppNoDI.dll
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\bin\Debug\net8.0\ConAppNoDI.pdb
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\obj\Debug\net8.0\ConAppNoDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\obj\Debug\net8.0\ConAppNoDI.AssemblyInfoInputs.cache
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\obj\Debug\net8.0\ConAppNoDI.AssemblyInfo.cs
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\obj\Debug\net8.0\ConAppNoDI.csproj.CoreCompileInputs.cache
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\obj\Debug\net8.0\ConAppNoDI.dll
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\obj\Debug\net8.0\refint\ConAppNoDI.dll
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\obj\Debug\net8.0\ConAppNoDI.pdb
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\obj\Debug\net8.0\ConAppNoDI.genruntimeconfig.cache
+C:\test\other\2024\ConAppNoDI\ConAppNoDI\obj\Debug\net8.0\ref\ConAppNoDI.dll
