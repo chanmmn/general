@@ -1,0 +1,14 @@
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\bin\Debug\net8.0\ConsAppAsync.exe
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\bin\Debug\net8.0\ConsAppAsync.deps.json
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\bin\Debug\net8.0\ConsAppAsync.runtimeconfig.json
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\bin\Debug\net8.0\ConsAppAsync.dll
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\bin\Debug\net8.0\ConsAppAsync.pdb
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\obj\Debug\net8.0\ConsAppAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\obj\Debug\net8.0\ConsAppAsync.AssemblyInfoInputs.cache
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\obj\Debug\net8.0\ConsAppAsync.AssemblyInfo.cs
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\obj\Debug\net8.0\ConsAppAsync.csproj.CoreCompileInputs.cache
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\obj\Debug\net8.0\ConsAppAsync.dll
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\obj\Debug\net8.0\refint\ConsAppAsync.dll
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\obj\Debug\net8.0\ConsAppAsync.pdb
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\obj\Debug\net8.0\ConsAppAsync.genruntimeconfig.cache
+D:\test\other\2024\ConsAppAsync\ConsAppAsync\obj\Debug\net8.0\ref\ConsAppAsync.dll
