@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test\\other\\2024\\ConsAppAsync\\ConsAppAsync\\ConsAppAsync.csproj": {}
+    "D:\\git\\general\\2024\\ConsAppAsync\\ConsAppAsync\\ConsAppAsync.csproj": {}
   },
   "projects": {
-    "D:\\test\\other\\2024\\ConsAppAsync\\ConsAppAsync\\ConsAppAsync.csproj": {
+    "D:\\git\\general\\2024\\ConsAppAsync\\ConsAppAsync\\ConsAppAsync.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\other\\2024\\ConsAppAsync\\ConsAppAsync\\ConsAppAsync.csproj",
+        "projectUniqueName": "D:\\git\\general\\2024\\ConsAppAsync\\ConsAppAsync\\ConsAppAsync.csproj",
         "projectName": "ConsAppAsync",
-        "projectPath": "D:\\test\\other\\2024\\ConsAppAsync\\ConsAppAsync\\ConsAppAsync.csproj",
+        "projectPath": "D:\\git\\general\\2024\\ConsAppAsync\\ConsAppAsync\\ConsAppAsync.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\other\\2024\\ConsAppAsync\\ConsAppAsync\\obj\\",
+        "outputPath": "D:\\git\\general\\2024\\ConsAppAsync\\ConsAppAsync\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

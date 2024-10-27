@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsAppAsync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbd6ccbe6abdce4a4c84d2dbb5d1f14310b4f4f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsAppAsync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsAppAsync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
