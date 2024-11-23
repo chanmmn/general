@@ -1,0 +1,14 @@
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\bin\Debug\net9.0\ConAppExtractDateofMonth.exe
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\bin\Debug\net9.0\ConAppExtractDateofMonth.deps.json
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\bin\Debug\net9.0\ConAppExtractDateofMonth.runtimeconfig.json
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\bin\Debug\net9.0\ConAppExtractDateofMonth.dll
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\bin\Debug\net9.0\ConAppExtractDateofMonth.pdb
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\obj\Debug\net9.0\ConAppExtractDateofMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\obj\Debug\net9.0\ConAppExtractDateofMonth.AssemblyInfoInputs.cache
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\obj\Debug\net9.0\ConAppExtractDateofMonth.AssemblyInfo.cs
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\obj\Debug\net9.0\ConAppExtractDateofMonth.csproj.CoreCompileInputs.cache
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\obj\Debug\net9.0\ConAppExtractDateofMonth.dll
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\obj\Debug\net9.0\refint\ConAppExtractDateofMonth.dll
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\obj\Debug\net9.0\ConAppExtractDateofMonth.pdb
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\obj\Debug\net9.0\ConAppExtractDateofMonth.genruntimeconfig.cache
+C:\test\other\2004\ConAppExtractDateofMonth\ConAppExtractDateofMonth\obj\Debug\net9.0\ref\ConAppExtractDateofMonth.dll
