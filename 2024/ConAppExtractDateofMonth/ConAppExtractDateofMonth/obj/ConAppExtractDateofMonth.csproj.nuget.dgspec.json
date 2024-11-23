@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\test\\other\\2004\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth.csproj": {}
+    "C:\\GitHub\\general\\2024\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth.csproj": {}
   },
   "projects": {
-    "C:\\test\\other\\2004\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth.csproj": {
+    "C:\\GitHub\\general\\2024\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\test\\other\\2004\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth.csproj",
+        "projectUniqueName": "C:\\GitHub\\general\\2024\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth.csproj",
         "projectName": "ConAppExtractDateofMonth",
-        "projectPath": "C:\\test\\other\\2004\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth.csproj",
+        "projectPath": "C:\\GitHub\\general\\2024\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth.csproj",
         "packagesPath": "C:\\Users\\starcraft\\.nuget\\packages\\",
-        "outputPath": "C:\\test\\other\\2004\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\obj\\",
+        "outputPath": "C:\\GitHub\\general\\2024\\ConAppExtractDateofMonth\\ConAppExtractDateofMonth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

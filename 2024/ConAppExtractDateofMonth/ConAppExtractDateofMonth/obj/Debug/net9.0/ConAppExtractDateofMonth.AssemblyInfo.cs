@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConAppExtractDateofMonth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c10da93bf12982181b122a16675480a3b4c0b797")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConAppExtractDateofMonth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConAppExtractDateofMonth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
