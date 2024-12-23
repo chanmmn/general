@@ -1,0 +1,16 @@
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\bin\Debug\net8.0\addresstest.txt
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\bin\Debug\net8.0\ConAppMergeLine.exe
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\bin\Debug\net8.0\ConAppMergeLine.deps.json
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\bin\Debug\net8.0\ConAppMergeLine.runtimeconfig.json
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\bin\Debug\net8.0\ConAppMergeLine.dll
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\bin\Debug\net8.0\ConAppMergeLine.pdb
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\obj\Debug\net8.0\ConAppMergeLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\obj\Debug\net8.0\ConAppMergeLine.AssemblyInfoInputs.cache
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\obj\Debug\net8.0\ConAppMergeLine.AssemblyInfo.cs
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\obj\Debug\net8.0\ConAppMergeLine.csproj.CoreCompileInputs.cache
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\obj\Debug\net8.0\ConAppMergeLine.dll
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\obj\Debug\net8.0\refint\ConAppMergeLine.dll
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\obj\Debug\net8.0\ConAppMergeLine.pdb
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\obj\Debug\net8.0\ConAppMergeLine.genruntimeconfig.cache
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\obj\Debug\net8.0\ref\ConAppMergeLine.dll
+C:\test\other\2004\ConAppMergeLine\ConAppMergeLine\bin\Debug\net8.0\addressRemovetill467.txt

@@ -1,0 +1,14 @@
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\bin\Debug\net8.0\ConAppGenPW.exe
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\bin\Debug\net8.0\ConAppGenPW.deps.json
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\bin\Debug\net8.0\ConAppGenPW.runtimeconfig.json
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\bin\Debug\net8.0\ConAppGenPW.dll
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\bin\Debug\net8.0\ConAppGenPW.pdb
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\obj\Debug\net8.0\ConAppGenPW.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\obj\Debug\net8.0\ConAppGenPW.AssemblyInfoInputs.cache
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\obj\Debug\net8.0\ConAppGenPW.AssemblyInfo.cs
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\obj\Debug\net8.0\ConAppGenPW.csproj.CoreCompileInputs.cache
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\obj\Debug\net8.0\ConAppGenPW.dll
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\obj\Debug\net8.0\refint\ConAppGenPW.dll
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\obj\Debug\net8.0\ConAppGenPW.pdb
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\obj\Debug\net8.0\ConAppGenPW.genruntimeconfig.cache
+C:\test\other\2004\ConAppGenPW\ConAppGenPW\obj\Debug\net8.0\ref\ConAppGenPW.dll
