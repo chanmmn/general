@@ -1,0 +1,14 @@
+c:\vscode\GetNextMonthFirstDay\bin\Debug\net9.0\GetNextMonthFirstDay.exe
+c:\vscode\GetNextMonthFirstDay\bin\Debug\net9.0\GetNextMonthFirstDay.deps.json
+c:\vscode\GetNextMonthFirstDay\bin\Debug\net9.0\GetNextMonthFirstDay.runtimeconfig.json
+c:\vscode\GetNextMonthFirstDay\bin\Debug\net9.0\GetNextMonthFirstDay.dll
+c:\vscode\GetNextMonthFirstDay\bin\Debug\net9.0\GetNextMonthFirstDay.pdb
+c:\vscode\GetNextMonthFirstDay\obj\Debug\net9.0\GetNextMonthFirstDay.GeneratedMSBuildEditorConfig.editorconfig
+c:\vscode\GetNextMonthFirstDay\obj\Debug\net9.0\GetNextMonthFirstDay.AssemblyInfoInputs.cache
+c:\vscode\GetNextMonthFirstDay\obj\Debug\net9.0\GetNextMonthFirstDay.AssemblyInfo.cs
+c:\vscode\GetNextMonthFirstDay\obj\Debug\net9.0\GetNextMonthFirstDay.csproj.CoreCompileInputs.cache
+c:\vscode\GetNextMonthFirstDay\obj\Debug\net9.0\GetNextMonthFirstDay.dll
+c:\vscode\GetNextMonthFirstDay\obj\Debug\net9.0\refint\GetNextMonthFirstDay.dll
+c:\vscode\GetNextMonthFirstDay\obj\Debug\net9.0\GetNextMonthFirstDay.pdb
+c:\vscode\GetNextMonthFirstDay\obj\Debug\net9.0\GetNextMonthFirstDay.genruntimeconfig.cache
+c:\vscode\GetNextMonthFirstDay\obj\Debug\net9.0\ref\GetNextMonthFirstDay.dll
