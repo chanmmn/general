@@ -1,0 +1,14 @@
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\bin\Debug\net9.0\ConAppDecimalBinary.exe
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\bin\Debug\net9.0\ConAppDecimalBinary.deps.json
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\bin\Debug\net9.0\ConAppDecimalBinary.runtimeconfig.json
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\bin\Debug\net9.0\ConAppDecimalBinary.dll
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\bin\Debug\net9.0\ConAppDecimalBinary.pdb
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\obj\Debug\net9.0\ConAppDecimalBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\obj\Debug\net9.0\ConAppDecimalBinary.AssemblyInfoInputs.cache
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\obj\Debug\net9.0\ConAppDecimalBinary.AssemblyInfo.cs
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\obj\Debug\net9.0\ConAppDecimalBinary.csproj.CoreCompileInputs.cache
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\obj\Debug\net9.0\ConAppDecimalBinary.dll
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\obj\Debug\net9.0\refint\ConAppDecimalBinary.dll
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\obj\Debug\net9.0\ConAppDecimalBinary.pdb
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\obj\Debug\net9.0\ConAppDecimalBinary.genruntimeconfig.cache
+C:\test\other\2025\ConAppDecimalBinary\ConAppDecimalBinary\obj\Debug\net9.0\ref\ConAppDecimalBinary.dll
